@@ -4,12 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LamanAlizada&theme=" alt="LamanAlizada" /></a> </p>
 
-<div> <a href="https://www.linkedin.com/in/Laman Alizada" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/laman-alizada-493198204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/LamanAlizada" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/alizadehlmn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Laman Alizada" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Laman Alizada" height="30" width="40" /></a><a href="https://instagram.com/alizadehlmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="alizadehlmn" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/laman-alizada-493198204" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laman-alizada-493198204" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/profile.php?id=100055751558540&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100055751558540&mibextid=ZbWKwL" height="30" width="40" /></a><a href="https://instagram.com/alizadehlmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="alizadehlmn" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,9 +26,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamanAlizada&layout=compact&theme=" alt=LamanAlizada />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamanAlizada&layout=compact&theme=default" alt=LamanAlizada />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LamanAlizada&show_icons=true&locale=en&theme=" alt="LamanAlizada" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LamanAlizada&show_icons=true&locale=en&theme=default" alt="LamanAlizada" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
